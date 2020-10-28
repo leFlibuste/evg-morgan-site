@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "evg-morgan-site"
+    }
+  },
+  "defaultProject": "evg-morgan-site",
+  "cli": {
+    "analytics": false
+  }
 }
